@@ -19,6 +19,9 @@ Untuk menjalankan projectnya di browser, jalankan kode berikut di terminal
 npm start
 ```
 
+Berikut hasil tampilan dari project ini
+![Gambar](https://github.com/Reinhardjs/movie-api-react/raw/master/public/screenshot_hasil.jpg)
+
 <br>
 <br>
 
