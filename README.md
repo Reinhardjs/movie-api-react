@@ -13,6 +13,7 @@ Selanjutnya install dependecies react dengan menjalankan kode berikut di termina
 ```
 npm install
 ```
+Kalau gagal diinstal dengan pesan error bahwa file .lock perlu dihapus, hapus file "yarn.lock"
 
 Untuk menjalankan projectnya di browser, jalankan kode berikut di terminal
 ```
