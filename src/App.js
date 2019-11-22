@@ -46,28 +46,6 @@ function App() {
         </Row>
       </Container>
 
-
-      <Container style={{ width: "1000px" }}>
-        <Row>
-          {
-            movies.map(movie => (
-
-              <Col md="4">
-                <Card>
-                  <CardImg top height="300" src={movie.imageUrl} alt="" />
-                  <CardBody>
-                    <CardTitle>{movie.title}</CardTitle>
-                    <CardText>{movie.description}</CardText>
-                    <Button>Button</Button>
-                  </CardBody>
-                </Card>
-              </Col>
-
-            ))
-          };
-        </Row>
-      </Container>
-
     </>
 
   );
